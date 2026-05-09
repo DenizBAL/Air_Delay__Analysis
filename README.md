@@ -49,6 +49,6 @@ Bölgesel havayollarının (örn. ExpressJet), ana taşıyıcılara göre çok d
 
 ![Ucus_ıptallerı](assets/Ucus_ıptallerı.png )
 
--- 4)En çok gecikmelerin olduğu hava limanları.
+4) En çok gecikmelerin olduğu hava limanları.
 
 ![Gecikmeler_Hava_Lımanı](assets/Gecikmeler_Hava_Lımanı.png )
