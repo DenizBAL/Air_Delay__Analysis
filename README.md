@@ -26,6 +26,7 @@
 
 -- ## 📈 Önemli Analiz Bulguları
 -- 1) Yıllık ve Mevsimsel Trendler:
+
 -- Pandemi Etkisi (2020): Toplam uçuş sayısının azalmasıyla birlikte gecikme oranlarının %9.21 ile tarihi bir dip seviyeye gerilediği gözlemlendi.
 
 ![Gecikme_oranlari](assets/Gecikme_oranlari.png)
