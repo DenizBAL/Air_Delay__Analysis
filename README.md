@@ -1,4 +1,4 @@
-<img width="1604" height="799" alt="image" src="https://github.com/user-attachments/assets/0c4d25af-f9e5-4b71-95e2-3f02638ad88c" />-- ## 📌 Proje Hakkında
+## 📌 Proje Hakkında
 -- Airline Delay & Cancellation Analysis (2013-2023)
 -- Bu proje, 2013-2023 yılları arasındaki havayolu gecikme ve iptal verilerini kullanarak havacılık sektöründeki operasyonel performansı analiz eder. 
 -- SQL Server üzerinde gerçekleştirilen bu çalışma, ham verinin temizlenmesinden fiziksel optimizasyonuna ve veri hikayeleştirme aşamasına kadar tüm süreçleri kapsar.
